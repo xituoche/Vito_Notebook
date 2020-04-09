@@ -1,2 +1,5 @@
-# xituoche-usc.edu
-Vito_Notebook
+# Vito's Learning Notebook
+## Cover
+1. Interview
+2. Readings & Materials
+3. Ohter References
